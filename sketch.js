@@ -2,7 +2,8 @@
 /***************************************************************************
 	Project name: Rooms of My House
 		by Ashley Lee
-	Overview: This is Ashley Lee's rooms of my house p5.js that shows navigation structure using the keyboard between 9 rooms.
+	Overview: This is Ashley Lee's rooms of my house p5.js that shows navigation 
+	structure using the keyboard between 9 rooms.
 	________________________________________________________________________
 	Note: 
 	(1) this code translates Ashley's dream house that was made in XD
