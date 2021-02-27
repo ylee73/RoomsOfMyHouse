@@ -62,7 +62,7 @@ function setup() {
   textSize(11);
   textStyle(BOLD);
 
-  //set to hallway for starup
+  //set to Opening for starup
   drawFunction = drawOpening;
  }
 
